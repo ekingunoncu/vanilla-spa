@@ -38,6 +38,7 @@ export default class extends View {
            <br>
            Author : Ekin Gün Öncü : <a href="https://www.linkedin.com/in/ekingunoncu/">linkedin</a> : <a href="https://github.com/ekingunoncu">github</a> 
         </div>
+        <h2>These below are the people in the space right now.</h2>
         ${await this.getAstros()}
         </div>
         `)
