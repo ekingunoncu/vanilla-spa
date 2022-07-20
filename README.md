@@ -5,9 +5,7 @@
 ## Why you might want to use it?
 
 * ### This way will give you a comprehensive understanding of single-page applications.
-* ### Flexibility and freedom of choosing any dependency without thinking if it's good with Vue, Angular, or React.
 * ### Your project will be lightweight because it will contain only the dependencies you must have.
-* ### Besides all you can do literally anything that popular frameworks provide for you.
 
 ## How to use it?
 
