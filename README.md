@@ -1,5 +1,5 @@
 # Vanilla
-
+https://medium.com/testinium-tech/single-page-application-without-framework-a16600ff7cb1
 ### Vanilla is a production-ready starter template that makes you able to design single-page applications without any framework.
 
 ## Why you might want to use it?
